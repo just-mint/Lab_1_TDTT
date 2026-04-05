@@ -1,0 +1,8 @@
+# danh sách các thư viện sử dụng:
+fastapi
+uvicorn
+python-multipart
+transformers
+torch
+torchvision
+Pillow
